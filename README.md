@@ -47,7 +47,8 @@ Responsive weather app that uses JS + OpenWeather API to display real-time weath
 
 ## 🌐 Let's Connect
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/cherry-garg-87797225a/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cherry-garg-87797225a/)  
+📄 [Resume](https://drive.google.com/file/d/1F9M3tsOWE3RKKNQszGUBHuzj63MlymYT/view?usp=drive_link)  
 📧 Email: cherrygarg1110@gmail.com 
 
 
