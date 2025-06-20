@@ -15,6 +15,7 @@
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 **Other:** Git, GitHub, REST APIs, CRON Jobs, HTML, CSS
 
 ## 📌 Projects
@@ -23,7 +24,7 @@
 A full-stack app built with Node.js, Express.js, PostgreSQL, and React.  
 ✅ Features EMI auto-deduction via CRON jobs and secure transactions using ACID properties.
 
-🔗 [GitHub Repo](https://github.com/Cherryga/Bank_Management)
+🔗 [GitHub Repo](https://github.com/Cherryga/Bank_Management_System)
 
 
 ### 🍲 Recipe Sharing Platform  
@@ -40,15 +41,14 @@ Responsive weather app that uses JS + OpenWeather API to display real-time weath
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Cherryga&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherryga&layout=compact&theme=tokyonight)
 
 
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_USERNAME)  
-📧 Email: your.email@example.com  
-📄 [Resume](https://link-to-your-resume.pdf)
+📧 Email: cherrygarg1110@gmail.com 
+📄 [Resume](file:///C:/Users/91730/Downloads/cherry%20Garg%20-%20Resume%20-%20December%202024%20(2).pdf)
 
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
