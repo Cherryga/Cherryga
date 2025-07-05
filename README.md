@@ -28,10 +28,10 @@ A full-stack app built with Node.js, Express.js, PostgreSQL, and React.
 🔗 [GitHub Repo](https://github.com/Cherryga/Bank_Management_System)
 
 
-### 🍲 Recipe Sharing Platform  
-Spring Boot + React app with recipe posting, review system, and shopping list management.
+### 📰 NewsHive – Real-time News App
+React-based news application with live category filtering, sentiment tagging, theme toggle, Google Translate integration, and infinite scroll for seamless user experience.
 
-🔗 [GitHub Repo](https://github.com/Cherryga/Recipe_Sharing)
+🔗 [GitHub Repo](https://github.com/Cherryga/NewsHive)
 
 
 ### 🌤 Real-Time Weather App  
